@@ -1,0 +1,6 @@
+{
+  "name": "University Portal & Academics Hub",
+  "description": "A glassmorphic, responsive university dashboard for Anna University, featuring student records, interactive weekly timetables, a faculty directory, deep academic department statistics, a campus perspective gallery, and a central JSON real-time database editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
